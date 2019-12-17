@@ -1,0 +1,27 @@
+{
+  "name": "firstReact-project-adoptMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unclejide1/firstReact-project-adoptMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unclejide1/firstReact-project-adoptMe/issues"
+  },
+  "homepage": "https://github.com/unclejide1/firstReact-project-adoptMe#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
+    "prettier": "^1.19.1"
+  }
+}
